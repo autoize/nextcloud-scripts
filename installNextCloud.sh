@@ -4,7 +4,7 @@
 # Author: Autoize (autoize.com)
 
 nextcloud_url='http://example.com' # Full URL of NextCloud instance
-nextcloud_version='12.0.2' # Desired NextCloud version
+nextcloud_version='12.0.3' # Desired NextCloud version
 db_root_password='supersecret' # MySQL database root password
 db_user_password='secret' # MySQL database user password
 datapath='/cloudData' # Path for user data to be stored
