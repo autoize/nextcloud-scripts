@@ -7,7 +7,7 @@
 nextcloud_url='https://example.com' # Full URL of NextCloud instance
 letsencrypt_domains='-d example.com -d www.example.com' # Hostname(s) to obtain SSL certificate for, following -d flag
 letsencrypt_email='admin@example.com' # Admin contact email for Let's Encrypt
-nextcloud_version='12.0.2' # Desired NextCloud version
+nextcloud_version='12.0.3' # Desired NextCloud version
 db_root_password='supersecret' # MySQL database root password
 db_user_password='secret' # MySQL database user password
 datapath='/cloudData' # Path where user data is stored
